@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(180, 183, 185);
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.classwork {
+    color: rgb(197, 117, 117);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#workid {
+    color: rgb(211, 32, 32);
+    font-size:  1.5em;
+}
+
+.classplay {
+    color: aqua;
+    font-size: 100% ;
+}
